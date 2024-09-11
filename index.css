@@ -3,7 +3,7 @@
 }
 
 body {
-    margin: 0;
+    margin: 110px 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +63,7 @@ input {
 
 input::placeholder {
     color: #B0B0B0; /* Improved color for readability */
-    font-size: 14px;
+    font-size: 12px;
     opacity: 1;
     text-align: center;
 }
